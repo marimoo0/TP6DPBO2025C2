@@ -45,4 +45,14 @@ Menampilkan Skor:
 
 ## -- Dokumentasi saat Program di Jalankan --
 
-### Add Data
+### Menu Awal
+
+![1](https://github.com/marimoo0/TP6DPBO2025C2/blob/2b530785c8f48aaf92f45330a4c7736c926687c8/SS/Screenshot_3.png)
+
+### Game Over
+
+![1](https://github.com/marimoo0/TP6DPBO2025C2/blob/2b530785c8f48aaf92f45330a4c7736c926687c8/SS/Screenshot_1.png)
+
+### Tampilan Score
+
+![1](https://github.com/marimoo0/TP6DPBO2025C2/blob/2b530785c8f48aaf92f45330a4c7736c926687c8/SS/Screenshot_2.png)
