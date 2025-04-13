@@ -6,7 +6,7 @@ Saya Khana Yusdiana NIM 2100991 mengerjakan soal TP 6 dalam mata kuliah Desain d
 
 ## -- Desain Program --
 
-![1]()
+![1](https://github.com/marimoo0/TP6DPBO2025C2/blob/deba847302ed9908a314e0ce30adc8f661bd078d/Class%20Diagram.png)
 
 ## -- Penjelasan Alur --
 
